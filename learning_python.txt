@@ -1,0 +1,3 @@
+In Python you can learn function.
+In Python you can create file.
+In Python you can have fun.
